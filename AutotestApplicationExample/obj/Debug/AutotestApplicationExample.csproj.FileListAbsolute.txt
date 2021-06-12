@@ -1,0 +1,7 @@
+C:\Users\kenny\source\repos\AutotestApplicationExample\AutotestApplicationExample\bin\Debug\AutotestApplicationExample.exe.config
+C:\Users\kenny\source\repos\AutotestApplicationExample\AutotestApplicationExample\bin\Debug\AutotestApplicationExample.exe
+C:\Users\kenny\source\repos\AutotestApplicationExample\AutotestApplicationExample\bin\Debug\AutotestApplicationExample.pdb
+C:\Users\kenny\source\repos\AutotestApplicationExample\AutotestApplicationExample\obj\Debug\AutotestApplicationExample.csprojAssemblyReference.cache
+C:\Users\kenny\source\repos\AutotestApplicationExample\AutotestApplicationExample\obj\Debug\AutotestApplicationExample.csproj.CoreCompileInputs.cache
+C:\Users\kenny\source\repos\AutotestApplicationExample\AutotestApplicationExample\obj\Debug\AutotestApplicationExample.exe
+C:\Users\kenny\source\repos\AutotestApplicationExample\AutotestApplicationExample\obj\Debug\AutotestApplicationExample.pdb
